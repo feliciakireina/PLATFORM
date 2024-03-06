@@ -1,0 +1,25 @@
+body {
+    background-color: #FDEEE7;
+}
+
+h1{
+font-size: 50px;
+color: #D677;
+margin-left: 370px;
+margin-top: 200px;
+font-family: "Single Day", cursive;
+}
+
+h2{
+    font-size: 40px;
+    letter-spacing: 0.04cm;
+    color: #D677;
+    margin-left: 300px;
+    margin-top: -40px;
+     font-family: "Lilita One", sans-serif;;
+}
+img{
+    margin-top: -150px;
+    margin-left: 500px;
+}
+  

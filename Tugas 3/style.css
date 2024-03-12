@@ -1,8 +1,52 @@
 body {
     background-color: #FDEEE7;
+    color: #D677;
+    letter-spacing: 0.04cm;
+    font : 16px/28px "Lilita One", sans-serif;
 }
 
-h1{
+.container {
+    width: 1400px;
+    margin : auto;
+    background-color: white;
+}
+
+.header{
+    padding : 20px;
+}
+
+.header .judul {
+font-size: 40px;
+}
+
+.header ul {
+    padding: 0; 
+    margin: 0; 
+}
+
+.header ul li {
+display : inline-block;
+margin-top: 20px;
+margin-right:5px;
+font-size: 12.1px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.header a{
+    text-decoration: none;
+    color : black;
+}
+
+.header  a:hover{
+    background-color: #D677;
+    color: white;
+}
+
+.hero{
+    width: 250px;
+}
+
+/* h1{
 font-size: 50px;
 color: #D677;
 margin-left: 370px;
@@ -21,5 +65,5 @@ h2{
 img{
     margin-top: -150px;
     margin-left: 500px;
-}
+} */
   

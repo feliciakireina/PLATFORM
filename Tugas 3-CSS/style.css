@@ -43,8 +43,39 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .hero{
-    width: 250px;
+    height: 250px;
+    background-color: #FDE0E4;
 }
+
+.content{
+    padding : 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.content h2{
+    font-size: 20px;
+    color: black;
+}
+
+.content .penulis{
+    color: black;
+    font-size: 11px;
+    margin-top: -20px;
+}
+
+.content .penulis a{
+    color: salmon;
+    text-decoration: none;
+}
+.content p{
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: black;   
+    ;
+}
+
+
 
 /* h1{
 font-size: 50px;
@@ -61,9 +92,13 @@ h2{
     margin-left: 300px;
     margin-top: -40px;
      font-family: "Lilita One", sans-serif;;
-}
-img{
+}*/
+
+
+/* img{
     margin-top: -150px;
     margin-left: 500px;
-} */
+}  */
+
+
   

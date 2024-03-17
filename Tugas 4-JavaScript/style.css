@@ -1,0 +1,12 @@
+body {
+    background-color: #FDEEE7;
+    color: #D677;
+    letter-spacing: 0.04cm;
+    font : 16px/28px "Lilita One", sans-serif;
+}
+
+.container {
+    width: 1400px;
+    margin : auto;
+    background-color: white;
+}

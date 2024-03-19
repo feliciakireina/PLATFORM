@@ -13,7 +13,7 @@ function onClick() {
         const label = document.createElement('label');
         const input = document.createElement('input');
 
-        label.innerText = "pilihan" + (i + 1);
+        label.innerText = "pilihan " + (i + 1) + " ";
         input.type = "text";
 
         const div = document.createElement('div');

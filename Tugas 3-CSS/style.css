@@ -2,77 +2,78 @@ body {
     background-color: #FDEEE7;
     color: #D677;
     letter-spacing: 0.04cm;
-    font : 16px/28px "Lilita One", sans-serif;
+    font: 16px/28px "Lilita One", sans-serif;
 }
 
 .container {
     width: 1400px;
-    margin : auto;
+    margin: auto;
     background-color: white;
 }
 
-.header{
-    padding : 20px;
+.header {
+    padding: 20px;
 }
 
 .header .judul {
-font-size: 40px;
+    font-size: 40px;
 }
 
 .header ul {
-    padding: 0; 
-    margin: 0; 
+    padding: 0;
+    margin: 0;
 }
 
 .header ul li {
-display : inline-block;
-margin-top: 20px;
-margin-right:5px;
-font-size: 12.1px;
-font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 5px;
+    font-size: 12.1px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.header a{
+.header a {
     text-decoration: none;
-    color : black;
+    color: black;
 }
 
-.header  a:hover{
+.header a:hover {
     background-color: #D677;
     color: white;
 }
 
-.hero{
+.hero {
     height: 250px;
     background-color: #FDE0E4;
     background-image: url("img");
 }
 
-.content{
-    padding : 20px;
+.content {
+    padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 
-.content h2{
+.content h2 {
     font-size: 20px;
     color: black;
 }
 
-.content .penulis{
+.content .penulis {
     color: black;
     font-size: 11px;
     margin-top: -20px;
 }
 
-.content .penulis a{
+.content .penulis a {
     color: salmon;
     text-decoration: none;
 }
-.content p{
+
+.content p {
     margin-bottom: 30px;
     font-size: 14px;
-    color: black;   
+    color: black;
     ;
 }
 
@@ -101,6 +102,3 @@ h2{
     margin-top: -150px;
     margin-left: 500px;
 }  */
-
-
-  

@@ -1,3 +1,15 @@
+body {
+    background-color: #FDEEE7;
+    color: white;
+    letter-spacing: 0.04cm;
+    font : 16px/28px "Lilita One", sans-serif;
+}
+
+h1{
+  color: #D677;
+  padding-left: 730px;
+}
+
 .kotak {
     width: 500px;
     margin : auto;
